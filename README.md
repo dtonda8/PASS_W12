@@ -4,7 +4,7 @@
 ### Q1: Kth Largest Element in an Array
 Given an integer array `nums` and an integer `k`, return the kth largest element in the array.  
 
-Can you solve it without sorting? See if you can obtain a complexity less than $O(n + k\cdot \log n)$ where $n$ is the length of `nums`.  
+Can you solve it without sorting? See if you can obtain a complexity less than or equal to $O(n + k\cdot \log n)$ where $n$ is the length of `nums`.  
 
 **Example 1**  
 Input: `nums` = [3,2,1,5,6,4], `k` = 2  
