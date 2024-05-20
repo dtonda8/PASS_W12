@@ -1,7 +1,7 @@
 # PASS_W12 🎉
-**in-built lists are allowed**. `dict` and `sorted` are not allowed 
+**in-built lists are allowed**. `dict` and `sorted`/`sort` are not allowed 
 
-### Q1: Minimum Absolute Difference in BST 
+### Q1: Kth Largest Element in an Array
 Given an integer array `nums` and an integer `k`, return the kth largest element in the array.  
 
 Can you solve it without sorting? See if you can obtain a complexity less than $O(n + k\cdot \log n)$ where $n$ is the length of `nums`.  
